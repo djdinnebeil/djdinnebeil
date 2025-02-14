@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm DJ!
+# Hello, this is DJ.
 
 I'm a **Software Engineer** with a strong passion for Python, Windows development, and the foundational concepts of programming languages. My journey in coding is fueled by curiosity and a love for problem-solving. When I'm not deep in code, you'll find me hiking, discovering new trails, or hanging out with my cat, Tabby, who keeps me company during those late-night projects.
 
